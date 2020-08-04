@@ -1,0 +1,45 @@
+[22-Jul-2020 23:56:34 America/New_York] PHP Fatal error:  Class 'finfo' not found in /home/septlpik/public_html/api_tayoga/save_absen.php on line 72
+[22-Jul-2020 23:56:41 America/New_York] PHP Fatal error:  Class 'finfo' not found in /home/septlpik/public_html/api_tayoga/save_absen.php on line 72
+[22-Jul-2020 23:56:49 America/New_York] PHP Fatal error:  Class 'finfo' not found in /home/septlpik/public_html/api_tayoga/save_absen.php on line 72
+[23-Jul-2020 00:02:07 America/New_York] PHP Fatal error:  Class 'finfo' not found in /home/septlpik/public_html/api_tayoga/save_absen.php on line 72
+[23-Jul-2020 00:06:26 America/New_York] PHP Warning:  move_uploaded_file(uploads/062c7aaf-7cbc-4431-8e5a-fcec0aa30ace.jpg): failed to open stream: No such file or directory in /home/septlpik/public_html/api_tayoga/save_absen.php on line 85
+[23-Jul-2020 00:06:26 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprtppoW' to 'uploads/062c7aaf-7cbc-4431-8e5a-fcec0aa30ace.jpg' in /home/septlpik/public_html/api_tayoga/save_absen.php on line 85
+[23-Jul-2020 00:14:07 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[23-Jul-2020 00:16:15 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[23-Jul-2020 00:17:29 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[24-Jul-2020 03:37:00 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[25-Jul-2020 08:28:31 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[25-Jul-2020 08:29:41 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[25-Jul-2020 08:32:10 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[25-Jul-2020 08:33:31 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen.php on line 94
+[29-Jul-2020 11:15:38 America/New_York] PHP Notice:  Undefined variable: id_absen in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 124
+[29-Jul-2020 11:16:46 America/New_York] PHP Notice:  Undefined variable: id_absen in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 124
+[29-Jul-2020 11:16:56 America/New_York] PHP Notice:  Undefined variable: id_absen in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 113
+[29-Jul-2020 11:16:56 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 138
+[29-Jul-2020 11:17:56 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 138
+[29-Jul-2020 11:31:54 America/New_York] PHP Notice:  Undefined index: koordinat in /home/septlpik/public_html/api_tayoga/absen_new.php on line 61
+[29-Jul-2020 11:54:44 America/New_York] PHP Notice:  Undefined variable: diff in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 115
+[29-Jul-2020 11:54:44 America/New_York] PHP Notice:  Undefined variable: diff in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 117
+[29-Jul-2020 11:55:35 America/New_York] PHP Notice:  Undefined variable: diff in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 115
+[29-Jul-2020 11:55:35 America/New_York] PHP Notice:  Undefined variable: diff in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 117
+[29-Jul-2020 11:58:15 America/New_York] PHP Notice:  Undefined variable: diff in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 117
+[29-Jul-2020 11:58:15 America/New_York] PHP Notice:  Undefined variable: diff in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 119
+[29-Jul-2020 12:00:47 America/New_York] PHP Notice:  Undefined variable: menit in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 125
+[03-Aug-2020 06:22:04 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 159
+[03-Aug-2020 06:23:09 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 159
+[03-Aug-2020 06:24:45 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 159
+[03-Aug-2020 06:34:33 America/New_York] PHP Notice:  Undefined index: total_id in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 120
+[03-Aug-2020 06:34:47 America/New_York] PHP Notice:  Undefined index: total_id in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 120
+[03-Aug-2020 06:36:09 America/New_York] PHP Notice:  Undefined index: total_id in /home/septlpik/public_html/api_tayoga/save_absen_new.php on line 120
+[03-Aug-2020 17:43:12 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 52
+[03-Aug-2020 17:43:12 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 54
+[03-Aug-2020 17:43:12 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 56
+[03-Aug-2020 17:43:12 Asia/Jakarta] PHP Notice:  Undefined variable: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 71
+[03-Aug-2020 17:46:21 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 52
+[03-Aug-2020 17:46:21 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 54
+[03-Aug-2020 17:46:21 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 56
+[03-Aug-2020 17:46:21 Asia/Jakarta] PHP Notice:  Undefined variable: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 71
+[03-Aug-2020 17:48:11 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 52
+[03-Aug-2020 17:48:11 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 54
+[03-Aug-2020 17:48:11 Asia/Jakarta] PHP Notice:  Undefined index: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 56
+[03-Aug-2020 17:48:11 Asia/Jakarta] PHP Notice:  Undefined variable: stt_absen in /home/septlpik/public_html/api_tayoga/absen_new.php on line 71
